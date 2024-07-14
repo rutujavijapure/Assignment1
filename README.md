@@ -12,17 +12,17 @@ Ensure you have the necessary libraries installed:
 pip install requests beautifulsoup4 pandas sqlite3 plotly
 pip install fuzzywuzzy
 
-*3. Scrape Data from E-Commerce Websites*
+*2. Scrape Data from E-Commerce Websites*
 Scraping Script:
 i)TiraLipstickFinal.ipynb----------From Tira Website
 ii)TataLipstickFinal.ipynb---------From Tatacliq
 
-*4. Store Data in SQLite Database*
+*3. Store Data in SQLite Database*
 Database Script:
 After Extracting Data was stored in lipstick.db with different Tables "lipstick" and "Tata"
 i) lipstick.db--------------------Database
 
-*5. Compare Prices and Visualize*
+*4. Compare Prices and Visualize*
 Comparison and Visualization Script:
 With the help of fuzzywuzzy comapared the product
 Fuzzy matching function
