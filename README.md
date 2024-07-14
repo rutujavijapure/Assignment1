@@ -5,6 +5,7 @@ seems similar.
 The compared result should be visualized in any visualization
 tool.
 Tabulate same data in two different tables, use any database.
+
 *****Web scraping e-commerce websites for Chambor Lipstick Product***
 
 *1. Set Up Your Environment*
